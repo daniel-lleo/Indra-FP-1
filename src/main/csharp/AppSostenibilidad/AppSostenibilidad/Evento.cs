@@ -8,15 +8,17 @@ namespace AppSostenibilidad
         // ATRIBUTOS
         private string nombre;
         private DateTime fecha;
+        private double duracion;
         private string ubicacion;
-        private List<Usuario> participantes;
+        private List<Usuario> participantes = new List<Usuario>();
         private Categoria categoria;
 
         // CONSTRUCTOR
-        public Evento(string nombre, DateTime fecha, string ubicacion, Categoria categoria)
+        public Evento(string nombre, DateTime fecha, double duracion, string ubicacion, Categoria categoria)
         {
             this.nombre = nombre;
             this.fecha = fecha;
+            this.duracion = duracion;
             this.ubicacion = ubicacion;
             this.categoria = categoria;
         }
@@ -25,13 +27,6 @@ namespace AppSostenibilidad
         public void AddParticipante(Usuario u)
         {
             participantes.Add(u);
-        }
-
-        public void CancelarEvento()
-        {
-            nombre = null;
-            ubicacion = null;
-            categoria = null;
         }
     }
 }

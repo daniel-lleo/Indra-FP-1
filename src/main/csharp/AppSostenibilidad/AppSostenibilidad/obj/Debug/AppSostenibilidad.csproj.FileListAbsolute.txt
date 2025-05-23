@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\Work\Indra\src\main\csharp\AppSostenibilidad\AppSostenibilidad\obj\Debug\AppSostenibilidad.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Work\Indra\src\main\csharp\AppSostenibilidad\AppSostenibilidad\obj\Debug\AppSostenibilidad.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Work\Indra\src\main\csharp\AppSostenibilidad\AppSostenibilidad\bin\Debug\AppSostenibilidad.exe.config
+C:\Users\Usuario\Desktop\Work\Indra\src\main\csharp\AppSostenibilidad\AppSostenibilidad\bin\Debug\AppSostenibilidad.exe
+C:\Users\Usuario\Desktop\Work\Indra\src\main\csharp\AppSostenibilidad\AppSostenibilidad\bin\Debug\AppSostenibilidad.pdb
+C:\Users\Usuario\Desktop\Work\Indra\src\main\csharp\AppSostenibilidad\AppSostenibilidad\obj\Debug\AppSostenibilidad.exe
+C:\Users\Usuario\Desktop\Work\Indra\src\main\csharp\AppSostenibilidad\AppSostenibilidad\obj\Debug\AppSostenibilidad.pdb

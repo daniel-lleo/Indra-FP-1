@@ -3,7 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Work\\Indra\\src\\main\\csharp\\AppSostenibilidad\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9154084A-F8BF-4B1F-B7B1-ABC72DC748D9}|AppSostenibilidad\\AppSostenibilidad.csproj|c:\\users\\usuario\\desktop\\work\\indra\\src\\main\\csharp\\appsostenibilidad\\appsostenibilidad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9154084A-F8BF-4B1F-B7B1-ABC72DC748D9}|AppSostenibilidad\\AppSostenibilidad.csproj|C:\\Users\\Usuario\\Desktop\\Work\\Indra\\src\\main\\csharp\\AppSostenibilidad\\appsostenibilidad\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9154084A-F8BF-4B1F-B7B1-ABC72DC748D9}|AppSostenibilidad\\AppSostenibilidad.csproj|solutionrelative:appsostenibilidad\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9154084A-F8BF-4B1F-B7B1-ABC72DC748D9}|AppSostenibilidad\\AppSostenibilidad.csproj|c:\\users\\usuario\\desktop\\work\\indra\\src\\main\\csharp\\appsostenibilidad\\appsostenibilidad\\organizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9154084A-F8BF-4B1F-B7B1-ABC72DC748D9}|AppSostenibilidad\\AppSostenibilidad.csproj|solutionrelative:appsostenibilidad\\organizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9154084A-F8BF-4B1F-B7B1-ABC72DC748D9}|AppSostenibilidad\\AppSostenibilidad.csproj|C:\\Users\\Usuario\\Desktop\\Work\\Indra\\src\\main\\csharp\\AppSostenibilidad\\appsostenibilidad\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9154084A-F8BF-4B1F-B7B1-ABC72DC748D9}|AppSostenibilidad\\AppSostenibilidad.csproj|solutionrelative:appsostenibilidad\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9154084A-F8BF-4B1F-B7B1-ABC72DC748D9}|AppSostenibilidad\\AppSostenibilidad.csproj|C:\\Users\\Usuario\\Desktop\\Work\\Indra\\src\\main\\csharp\\AppSostenibilidad\\appsostenibilidad\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9154084A-F8BF-4B1F-B7B1-ABC72DC748D9}|AppSostenibilidad\\AppSostenibilidad.csproj|solutionrelative:appsostenibilidad\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9154084A-F8BF-4B1F-B7B1-ABC72DC748D9}|AppSostenibilidad\\AppSostenibilidad.csproj|C:\\Users\\Usuario\\Desktop\\Work\\Indra\\src\\main\\csharp\\AppSostenibilidad\\appsostenibilidad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9154084A-F8BF-4B1F-B7B1-ABC72DC748D9}|AppSostenibilidad\\AppSostenibilidad.csproj|solutionrelative:appsostenibilidad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,17 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Organizador.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Work\\Indra\\src\\main\\csharp\\AppSostenibilidad\\AppSostenibilidad\\Organizador.cs",
+              "RelativeDocumentMoniker": "AppSostenibilidad\\Organizador.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Work\\Indra\\src\\main\\csharp\\AppSostenibilidad\\AppSostenibilidad\\Organizador.cs",
+              "RelativeToolTip": "AppSostenibilidad\\Organizador.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:56:12.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Work\\Indra\\src\\main\\csharp\\AppSostenibilidad\\AppSostenibilidad\\Usuario.cs",
+              "RelativeDocumentMoniker": "AppSostenibilidad\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Work\\Indra\\src\\main\\csharp\\AppSostenibilidad\\AppSostenibilidad\\Usuario.cs",
+              "RelativeToolTip": "AppSostenibilidad\\Usuario.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:05:32.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Work\\Indra\\src\\main\\csharp\\AppSostenibilidad\\AppSostenibilidad\\Categoria.cs",
+              "RelativeDocumentMoniker": "AppSostenibilidad\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Work\\Indra\\src\\main\\csharp\\AppSostenibilidad\\AppSostenibilidad\\Categoria.cs",
+              "RelativeToolTip": "AppSostenibilidad\\Categoria.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T07:08:59.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Work\\Indra\\src\\main\\csharp\\AppSostenibilidad\\AppSostenibilidad\\Evento.cs",
+              "RelativeDocumentMoniker": "AppSostenibilidad\\Evento.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Work\\Indra\\src\\main\\csharp\\AppSostenibilidad\\AppSostenibilidad\\Evento.cs",
+              "RelativeToolTip": "AppSostenibilidad\\Evento.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T07:06:44.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Work\\Indra\\src\\main\\csharp\\AppSostenibilidad\\AppSostenibilidad\\Program.cs",
               "RelativeDocumentMoniker": "AppSostenibilidad\\Program.cs",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\Work\\Indra\\src\\main\\csharp\\AppSostenibilidad\\AppSostenibilidad\\Program.cs",
               "RelativeToolTip": "AppSostenibilidad\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T07:03:31.46Z",
               "EditorCaption": ""
