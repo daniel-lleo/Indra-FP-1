@@ -18,10 +18,10 @@ Para ello, se han de trabajar diferentes cuestiones del desarrollo de software: 
 
 A continuación, una pequeña guía de la estructura del proyecto:
 
-- `/doc`: contiene todas las cuestiones relacionadas con la documentación del proyecto, incluyendo pruebas del Windows 10 instalado en la máquina virtual.
+- `/doc`: contiene todas las cuestiones relacionadas con la documentación del proyecto: máquina virtual, diagramas, XAMPP, etc.
 - `/html`: contiene todo el contenido relacionado con la página web, incluyendo HTML, CSS e imágenes usadas en la página.
 - `/sql`: contiene todos los scripts de SQL demandados para el proyecto.
-- `/src`: contiene una carpeta `main` con el código fuente en C# de las diferentes clases necesarias para el proyecto y una carpeta `test` con diferentes pruebas unitarias para el proyecto.
+- `/src`: contiene una carpeta `main` con el código fuente en C# de las diferentes clases necesarias para el proyecto.
 
 ---
 
