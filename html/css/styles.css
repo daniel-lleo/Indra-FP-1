@@ -1,8 +1,29 @@
+/*? FUENTES */
+
+@font-face {
+  font-family: 'Kalina';
+  src: url('../fonts/Kalina - PERSONAL USE ONLY.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Sweety Milkys';
+  src: url('../fonts/Sweety Milkys.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+/*? PÁGINA WEB */
+
 body {
   margin: 0;
   font-family: sans-serif;
   background-color: #e7ffe9;
   justify-content: center;
+  align-items: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 footer {
@@ -25,6 +46,7 @@ button {
   margin: 10px;
   transition: background-color 0.6s ease;
   cursor: pointer;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
 button:hover {
@@ -36,10 +58,14 @@ button:hover {
 }
 
 .banner {
-    background-color: rgb(222, 240, 195);
+    background-color: rgb(99, 145, 112);
+    color: white;
     width: 100%;
-    height: 120px;
+    height: 150px;
+    padding: 10px;
     text-align: center;
+    margin-top: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .slider {
@@ -81,7 +107,7 @@ button:hover {
   text-align: center;
   margin-top: 20px;
   height: 600px;
-  background-color: aliceblue;
+  background-color: white;
   border-radius: 10px;
   display: flex;
   flex-direction: column;
@@ -98,4 +124,39 @@ button:hover {
   border: 4px;
   border-radius: 10px;
   box-sizing: border-box;
+}
+
+/*? Estilos para los detalles del evento */
+
+.info-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.info-content {
+  background-color: white;
+  width: 50%;
+  max-width: 600px;
+  height: auto;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(10, 10, 10, 0.2);
+  text-align: center;
+  padding: 20px;
+}
+
+.info-description {
+  padding: 10px;
+  line-height: 1.6;
+}
+
+.info-title {
+  font-family: Sweety Mylkys;
+}
+
+/*? Este estilo aplica también para el apartado de vista previa del evento */
+.info-data {
+  line-height: 0.7;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
