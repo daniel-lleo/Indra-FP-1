@@ -10,8 +10,10 @@ namespace AppSostenibilidad
     {
         static void Main(string[] args)
         {
+            // Lista polimórfica
             List<Usuario> usuarios = new List<Usuario>();
 
+            // Creación de objetos
             Usuario user = new Usuario("Max", "correo@prueba.com", "1234");
             Organizador org = new Organizador("James", "correo@organizador.com", "strongpassword");
             Categoria categoria1 = new Categoria("Taller");

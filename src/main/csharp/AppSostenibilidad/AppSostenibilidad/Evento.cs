@@ -24,6 +24,7 @@ namespace AppSostenibilidad
         }
 
         // MÉTODOS
+        // Añade un usuario a la lista de participantes del evento, se debe llamar cuando un usuario participe en el evento
         public void AddParticipante(Usuario u)
         {
             participantes.Add(u);
