@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AppSostenibilidad
 {
-    internal class Ubicacion
+    class Ubicacion
     {
         // ATRIBUTOS
         string ciudad, calle;

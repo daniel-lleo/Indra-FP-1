@@ -10,6 +10,6 @@ namespace AppSostenibilidad
         private List<Evento> eventosCreados = new List<Evento>();
 
         // CONSTRUCTOR
-        public Organizador(string nombre, string correo, string contrasenya) : base(nombre, correo, contrasenya) {  }
+        public Organizador(string nombre, string correo, string contrasenya) : base(nombre, correo, contrasenya) { }
     }
 }

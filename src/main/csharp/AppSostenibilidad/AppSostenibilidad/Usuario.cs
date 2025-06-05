@@ -9,7 +9,7 @@ namespace AppSostenibilidad
         protected string nombre;
         protected string correo;
         protected string contrasenya;
-        protected List<Evento> eventos = new List<Evento>();
+        protected List<Evento> eventos = new List<Evento>(); // Eventos a los que asiste un usuario
 
         // CONSTRUCTOR
         public Usuario(string nombre, string correo, string contrasenya)
@@ -20,6 +20,7 @@ namespace AppSostenibilidad
         }
 
         // MÉTODOS
+        // Método para añadir un evento a la lista de eventos del usuario, se debe llamar cuando el usuario se inscriba a un evento
         public void ParticiparEvento(Evento e)
         {
             eventos.Add(e);
